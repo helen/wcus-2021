@@ -1,0 +1,48 @@
+{
+	"apiVersion": 2,
+	"title": "WCUS Demo",
+	"description": "Demo block for WCUS 2021",
+	"text-domain": "wcus-2021",
+	"name": "wcus-2021/demo",
+	"icon": "tickets",
+	"category": "formatting",
+	"attributes": {
+		"label": {
+			"type": "string"
+		},
+		"headline": {
+			"type": "string"
+		},
+		"description": {
+			"type": "string"
+		}
+	},
+	"example": {
+		"attributes": {}
+	},
+	"supports": {
+		"align": false,
+		"alignWide": false,
+		"anchor": false,
+		"color":{
+			"gradients": false,
+			"background": false,
+			"text": false
+		},
+		"typography":{
+			"fontSize": false,
+			"lineHeight": true
+		},
+		"customClassName": true,
+		"defaultStylePicker": false,
+		"html": false,
+		"inserter": true,
+		"multiple": true,
+		"reusable": false,
+		"spacing": {
+			"padding": false
+		}
+	},
+	"editorScript": "file:../../build/index.js",
+	"style": "file:../../build/index.css"
+}

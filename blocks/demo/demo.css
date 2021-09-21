@@ -1,0 +1,18 @@
+.wcus-demo__inner {
+	position: relative;
+	padding: 20px 40px 20px 20px;
+	background: #fff;
+}
+
+.wcus-demo__label {
+	background-color: rgb(205, 38, 83);
+	margin-bottom: 0;
+	padding: 17px 20px;
+	position: absolute;
+	right: 45px;
+	transform: rotate(90deg) translateX(100%);
+	transform-origin: 100% 100%;
+	top: -45px;
+	width: auto;
+	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
+}

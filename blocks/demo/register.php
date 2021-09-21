@@ -4,7 +4,7 @@ namespace Helen\WCUS\Demo;
 register_block_type_from_metadata(
 	get_stylesheet_directory() . '/blocks/demo',
 	array(
-		'render_callback' => 'render',
+		'render_callback' => __NAMESPACE__ . '\render_block_callback',
 	)
 );
 
