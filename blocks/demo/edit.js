@@ -2,7 +2,7 @@
 /**
  * WordPress dependencies
  */
- import {
+import {
 	RichText,
 	useBlockProps
 } from '@wordpress/block-editor';
