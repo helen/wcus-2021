@@ -26,6 +26,7 @@ $allowed_html = array(
 	'br'     => array(),
 	'p'      => array(),
 	'strong' => array(),
+	'em' => array(),
 );
 ?>
 <div class="wcus-demo
