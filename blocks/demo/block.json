@@ -18,7 +18,11 @@
 		}
 	},
 	"example": {
-		"attributes": {}
+		"attributes": {
+			"headline": "The Road Not Taken",
+			"label": "by Robert Frost",
+			"description": "Two roads diverged in a yellow wood,\u003cbr\u003eAnd sorry I could not travel both\u003cbr\u003eAnd be one traveler, long I stood\u003cbr\u003eAnd looked down one as far as I could\u003cbr\u003eTo where it bent in the undergrowth;"
+		}
 	},
 	"editorScript": "file:../../build/index.js",
 	"style": "file:../../build/index.css"
