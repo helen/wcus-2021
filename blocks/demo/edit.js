@@ -25,12 +25,6 @@ const Edit = ( { isSelected, attributes, setAttributes } ) => {
 		description,
 	} = attributes;
 
-	let { className } = attributes;
-
-	if ( undefined === className ) {
-		className = '';
-	}
-
 	return (
 		<>
 			<div {...blockProps}>
