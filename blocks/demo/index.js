@@ -9,6 +9,8 @@
  import edit from './edit';
  import name, * as settings from './block.json';
  
+ import './style.css';
+
  /* Uncomment for CSS overrides in the admin */
  // import './index.css';
  
