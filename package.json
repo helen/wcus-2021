@@ -1,0 +1,13 @@
+{
+    "name": "wcus-2021",
+    "version": "1.0.0",
+    "description": "Helen's super cool WCUS 2021 demo",
+    "scripts": {
+        "build": "wp-scripts build"
+    },
+    "author": "Helen Hou-Sandí",
+    "license": "GPL-2.0-only",
+    "devDependencies": {
+        "@wordpress/scripts": "^18.0.1"
+    }
+}
