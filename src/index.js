@@ -1,3 +1,3 @@
 import '../blocks/demo';
 
-import './style.css';
+import './index.css';
