@@ -16,3 +16,7 @@
 	width: auto;
 	font-family: NonBreakingSpaceOverride, "Hoefler Text", Garamond, "Times New Roman", serif;
 }
+
+.wcus-demo__inner h2.wcus-demo__title {
+	margin-top: 3rem;
+}

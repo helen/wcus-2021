@@ -20,29 +20,6 @@
 	"example": {
 		"attributes": {}
 	},
-	"supports": {
-		"align": false,
-		"alignWide": false,
-		"anchor": false,
-		"color":{
-			"gradients": false,
-			"background": false,
-			"text": false
-		},
-		"typography":{
-			"fontSize": false,
-			"lineHeight": true
-		},
-		"customClassName": true,
-		"defaultStylePicker": false,
-		"html": false,
-		"inserter": true,
-		"multiple": true,
-		"reusable": false,
-		"spacing": {
-			"padding": false
-		}
-	},
 	"editorScript": "file:../../build/index.js",
 	"style": "file:../../build/index.css"
 }
