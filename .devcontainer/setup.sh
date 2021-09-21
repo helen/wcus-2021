@@ -25,10 +25,6 @@ function getTitleFromSlug()
 
 source ~/.bashrc
 
-# Install node
-nvm install 15
-nvm alias default 15
-
 # Install dependencies
 cd /var/www/html/wp-content/${PROJECT_TYPE}s/${SLUG}/
 npm i && npm run build
